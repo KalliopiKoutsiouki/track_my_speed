@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TrackMe</string>
+    <string name="track_me">Start</string>
+    <string name="textview">TextView</string>
+    <string name="welcome">TrackMe!</string>
+    <string name="tracking">Tracking...</string>
+    <string name="results">Results</string>
+    <string name="test">test</string>
+    <string name="trackingResult">Results</string>
+    <string name="map">map</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
